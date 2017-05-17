@@ -1,0 +1,10 @@
+.logo{
+  padding: 40px;
+  text-align: center;
+}
+.logo-img{
+  border: 5px solid #50ae34;
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+}

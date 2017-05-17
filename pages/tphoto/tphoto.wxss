@@ -1,0 +1,24 @@
+.photo{
+  padding: 10px;
+  text-align: center;
+}
+.photo-img{
+  border: 1px solid #1AAD19;
+  border-radius: 10px;
+  width: 90%;
+}
+.page__hd{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.page__title{
+  text-align: center;
+  color: #09bb07;
+  font-weight: bold;
+  border-bottom: 1px solid #09bb07;
+}
+.page__desc{
+  padding: 0px 10px 10px 10px;
+  text-indent: 2em;
+  color: rgba(9,187,7,0.80);
+}

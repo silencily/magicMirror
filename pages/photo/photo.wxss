@@ -1,0 +1,19 @@
+.photo{
+  padding: 10px;
+  text-align: center;
+}
+.photo-img{
+  border: 1px solid #1AAD19;
+  border-radius: 10px;
+  width: 90%;
+}
+.weui-msg__title{
+  color: #09bb07;
+  font-weight: bold;
+}
+.weui-msg__desc{
+  color: rgba(9,187,7,0.80);
+}
+.weui-msg__opr-area{
+  padding-bottom: 10px;
+}

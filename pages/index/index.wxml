@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="page">
+  <view class="logo">
+    <image class="logo-img" src="/images/logo.png"></image>
+  </view>
+  <view class="page__bd page__bd_spacing">
+    <button bindtap="bindViewCamera" class="weui-btn" type="primary">哈，看镜！</button>
+  </view>
+</view>
